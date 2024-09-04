@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ferialysi.github.io/sitemap.html.gz
+Sitemap: https://ferialysi.github.io/app/sitemap.html.gz
+Sitemap: https://ferialysi.github.io/assets/sitemap.html.gz
+Sitemap: https://ferialysi.github.io/css/sitemap.html.gz
+Sitemap: https://ferialysi.github.io/includes/sitemap.html.gz
+Sitemap: https://ferialysi.github.io/item/sitemap.html.gz
+Sitemap: https://ferialysi.github.io/src/sitemap.html.gz
